@@ -33,8 +33,8 @@ os.uptime() — to return the system uptime, in seconds.
 Utility functions don’t necessarily create new functionality in a program, but you can think of them as internal tools used to maintain and debug your code. 
 The util core module contains methods specifically designed for these purposes.*/
 const util = require('util');
-/*One important object is types, which provides methods for runtime type checking in Node.
-Another important util method is .promisify(), which turns callback functions into promises. 
+/* One important object is types, which provides methods for runtime type checking in Node.
+Another important util method is .promisify(), which turns callback functions into promises. */
 
 
 
